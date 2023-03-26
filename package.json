@@ -41,7 +41,8 @@
   "devDependencies": {},
   "scripts":{
     "start": "node index.js",
-    "test": "npm test"
+    "test": "npm test",
+    "build":"mc-scripts build"
   },
   "author": "ak",
   "license": "ISC"
